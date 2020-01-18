@@ -1,0 +1,73 @@
+{"data":{"event_type":"call.initiated","id":"bb4f613d-76db-4428-bd37-0e4e7b8ea468","occurred_at":"2020-01-11T12:35:38.174175Z","payload":{"call_control_id":"v2:bMKLMszXhpzCjVhEg85puJJrQKElX_3G8sE02gJcro-fSuoiIKt-ag","call_leg_id":"df0fd692-346e-11ea-bd2f-02420a0f6d68","call_session_id":"df0aba7c-346e-11ea-9a20-02420a0f6d68","client_state":null,"connection_id":"1277331384146331228","direction":"outgoing","from":"+17866778272","state":"bridging","to":"+12242448419"},"record_type":"event"},"meta":{"attempt":1,"delivered_to":"http:\/\/milliondollarlanding.com\/index.php"}}
+{"data":{"event_type":"call.answered","id":"3667f6c3-eb93-41c1-88f2-95631a68b5e1","occurred_at":"2020-01-11T12:35:54.694170Z","payload":{"call_control_id":"v2:bMKLMszXhpzCjVhEg85puJJrQKElX_3G8sE02gJcro-fSuoiIKt-ag","call_leg_id":"df0fd692-346e-11ea-bd2f-02420a0f6d68","call_session_id":"df0aba7c-346e-11ea-9a20-02420a0f6d68","client_state":null,"connection_id":"1277331384146331228","from":"+17866778272","start_time":"2020-01-11T12:35:38.154228Z","to":"+12242448419"},"record_type":"event"},"meta":{"attempt":1,"delivered_to":"http:\/\/milliondollarlanding.com\/index.php"}}
+{"data":{"event_type":"call.playback.started","id":"1850cc2b-ad85-48cc-a64b-356fc0b49cbc","occurred_at":"2020-01-11T12:35:54.714170Z","payload":{"call_control_id":"v2:bMKLMszXhpzCjVhEg85puJJrQKElX_3G8sE02gJcro-fSuoiIKt-ag","call_leg_id":"df0fd692-346e-11ea-bd2f-02420a0f6d68","call_session_id":"df0aba7c-346e-11ea-9a20-02420a0f6d68","client_state":null,"connection_id":"1277331384146331228","media_url":"https:\/\/s3.amazonaws.com\/send-profit\/audio_libraries\/audio_library_5b536f5e85c5e5151c289248_aab041dab876d83df21fc9767e12e2053a3b71ae.mp3","overlay":false},"record_type":"event"},"meta":{"attempt":1,"delivered_to":"http:\/\/milliondollarlanding.com\/index.php"}}
+{"data":{"event_type":"call.dtmf.received","id":"bbc76517-f4ac-4780-8321-fb86beb1454d","occurred_at":"2020-01-11T12:36:01.854171Z","payload":{"call_control_id":"v2:bMKLMszXhpzCjVhEg85puJJrQKElX_3G8sE02gJcro-fSuoiIKt-ag","call_leg_id":"df0fd692-346e-11ea-bd2f-02420a0f6d68","call_session_id":"df0aba7c-346e-11ea-9a20-02420a0f6d68","client_state":null,"connection_id":"1277331384146331228","digit":"1","from":"+17866778272","start_time":"2020-01-11T12:35:38.154228Z","to":"+12242448419"},"record_type":"event"},"meta":{"attempt":1,"delivered_to":"http:\/\/milliondollarlanding.com\/index.php"}}
+{"data":{"event_type":"call.playback.ended","id":"c959c8ba-29fd-486a-b959-dd66abd9ce4f","occurred_at":"2020-01-11T12:36:03.294167Z","payload":{"call_control_id":"v2:bMKLMszXhpzCjVhEg85puJJrQKElX_3G8sE02gJcro-fSuoiIKt-ag","call_leg_id":"df0fd692-346e-11ea-bd2f-02420a0f6d68","call_session_id":"df0aba7c-346e-11ea-9a20-02420a0f6d68","client_state":null,"connection_id":"1277331384146331228","media_url":"https:\/\/s3.amazonaws.com\/send-profit\/audio_libraries\/audio_library_5b536f5e85c5e5151c289248_aab041dab876d83df21fc9767e12e2053a3b71ae.mp3","overlay":false,"status":"completed"},"record_type":"event"},"meta":{"attempt":1,"delivered_to":"http:\/\/milliondollarlanding.com\/index.php"}}
+
+{"data":
+    {"event_type":"call.initiated",
+    "id":"2429a0ba-8b2a-43f8-b133-29bf406cbdb1",
+    "occurred_at":"2020-01-11T12:36:03.314167Z",
+    "payload":{"call_control_id":"v2:LYbM3PJJ8QRypYnvQLoIgMqkA7o_EmbQmqHB629ZLT4SSQmir5eOhA",
+    "call_leg_id":"ee08f3ea-346e-11ea-b64e-02420a0f6e68",
+    "call_session_id":"df0aba7c-346e-11ea-9a20-02420a0f6d68",
+    "client_state":null,
+    "connection_id":"1277331384146331228",
+    "direction":"outgoing","from":"+17866778272","state":"bridging",
+    "to":"+8801781501769"},
+    "record_type":"event"},
+    "meta":{"attempt":1,"delivered_to":"http:\/\/milliondollarlanding.com\/index.php"}
+}
+
+{"data":{"event_type":"call.bridged","id":"e2948bbb-662d-4797-b8c8-86b3106de98b","occurred_at":"2020-01-11T12:36:09.234222Z","payload":{"call_control_id":"v2:bMKLMszXhpzCjVhEg85puJJrQKElX_3G8sE02gJcro-fSuoiIKt-ag","call_leg_id":"df0fd692-346e-11ea-bd2f-02420a0f6d68","call_session_id":"df0aba7c-346e-11ea-9a20-02420a0f6d68","client_state":null,"connection_id":"1277331384146331228","from":"+17866778272","start_time":"2020-01-11T12:35:38.154228Z","to":"+12242448419"},"record_type":"event"},"meta":{"attempt":1,"delivered_to":"http:\/\/milliondollarlanding.com\/index.php"}}
+
+{"data":
+{"event_type":"call.bridged",
+    "id":"e2948bbb-662d-4797-b8c8-86b3106de98b",
+    "occurred_at":"2020-01-11T12:36:09.234222Z",
+    "payload":{"call_control_id":"v2:LYbM3PJJ8QRypYnvQLoIgMqkA7o_EmbQmqHB629ZLT4SSQmir5eOhA",
+    "call_leg_id":"ee08f3ea-346e-11ea-b64e-02420a0f6e68",
+    "call_session_id":"df0aba7c-346e-11ea-9a20-02420a0f6d68",
+    "client_state":null,"connection_id":"1277331384146331228",
+    "from":"+17866778272","start_time":"2020-01-11T12:35:38.154228Z",
+    "to":"+8801781501769"},
+"record_type":"event"},
+"meta":{"attempt":1,"delivered_to":"http:\/\/milliondollarlanding.com\/index.php"}}
+
+{"data":
+{"event_type":"call.answered",
+    "id":"940fcb29-7259-4bf6-b435-8511c5217532",
+    "occurred_at":"2020-01-11T12:36:18.554166Z",
+    "payload":{"call_control_id":"v2:LYbM3PJJ8QRypYnvQLoIgMqkA7o_EmbQmqHB629ZLT4SSQmir5eOhA",
+    "call_leg_id":"ee08f3ea-346e-11ea-b64e-02420a0f6e68",
+    "call_session_id":"df0aba7c-346e-11ea-9a20-02420a0f6d68",
+    "client_state":null,"connection_id":"1277331384146331228",
+    "from":"+17866778272","start_time":"2020-01-11T12:36:03.314167Z",
+    "to":"+8801781501769"},
+"record_type":"event"},
+"meta":{"attempt":1,"delivered_to":"http:\/\/milliondollarlanding.com\/index.php"}}
+
+{"data":
+{"event_type":"call.hangup","id":"881aae87-eeaa-43e0-aa54-f5a860e7d376",
+"occurred_at":"2020-01-11T12:36:22.634217Z",
+"payload":{"call_leg_id":"ee08f3ea-346e-11ea-b64e-02420a0f6e68",
+"call_session_id":"df0aba7c-346e-11ea-9a20-02420a0f6d68",
+"client_state":null,"connection_id":"1277331384146331228",
+"end_time":"2020-01-11T12:36:22.634217Z","from":"+17866778272",
+"hangup_cause":"normal_clearing","sip_hangup_cause":"200",
+"start_time":"2020-01-11T12:36:03.314167Z","to":"+8801781501769"},
+"record_type":"event"},"meta":{"attempt":1,"delivered_to":"http:\/\/milliondollarlanding.com\/index.php"}}
+
+{"data":
+{"event_type":"call.hangup","id":"8a2c7a4e-d04c-4a89-8138-cd68594b3bed",
+"occurred_at":"2020-01-11T12:36:22.634217Z",
+"payload":{"call_leg_id":"df0fd692-346e-11ea-bd2f-02420a0f6d68",
+"call_session_id":"df0aba7c-346e-11ea-9a20-02420a0f6d68",
+"client_state":null,"connection_id":"1277331384146331228",
+"end_time":"2020-01-11T12:36:22.634217Z",
+"from":"+17866778272",
+"hangup_cause":"normal_clearing",
+"sip_hangup_cause":"200",
+"start_time":"2020-01-11T12:35:38.154228Z",
+"to":"+12242448419"},"record_type":"event"},
+"meta":{"attempt":1,"delivered_to":"http:\/\/milliondollarlanding.com\/index.php"}}
